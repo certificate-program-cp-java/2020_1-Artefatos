@@ -18,3 +18,5 @@ Além do Java e Spring Boot, outras tecnologias que são usadas na disciplina s�
 
 ## Aulas
 - [Hello World](./hello-world/): Nesta primeira aula criamos nossa primeira aplicação Web com Java e Spring Boot. Vamos começar como todo curso - criando um Hello World. Ao longo das semanas, vamos evoluir esse app até se tornar um CRUD completo.
+
+- [Páginas Dinâmicas](./paginas-dinamicas/): Até agora nossa aplicação está basicamente estática. Ela pode responder a solicitações do usuário, mas os resultados na página Web continuam sempre os mesmos. Nesta segunda aula vamos introduzir dinamismo na nossa aplicação usando o Freemarker.
