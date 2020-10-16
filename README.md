@@ -22,3 +22,5 @@ Além do Java e Spring Boot, outras tecnologias que são usadas na disciplina s�
 - [Páginas Dinâmicas](./paginas-dinamicas/): Até agora nossa aplicação está basicamente estática. Ela pode responder a solicitações do usuário, mas os resultados na página Web continuam sempre os mesmos. Nesta segunda aula vamos introduzir dinamismo na nossa aplicação usando o Freemarker.
 
 - [CRUD](./crud): Nesta aula vamos transformar nosso HelloWorld em um CRUD completo. Vamos trabalhar com um exemplo bem simples para todos consigam acompanhar. Contudo, vamos usar os princípios fundamentais para criar qualquer aplicação Web que envolva ler, criar, alterar ou excluir dados.
+
+- [Validação](./validacao): Da forma como está, nossa aplicação atende as 4 funcionalidades básicas de ler, criar, alterar e excluir dados. Contudo, se houver qualquer erro na entrada desses dados, eles serão inseridos/alterados mesmo assim! Por isso, precisamos de validação - o assunto dessa aula.
