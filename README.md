@@ -24,3 +24,5 @@ Além do Java e Spring Boot, outras tecnologias que são usadas na disciplina s�
 - [CRUD](./crud): Nesta aula vamos transformar nosso HelloWorld em um CRUD completo. Vamos trabalhar com um exemplo bem simples para todos consigam acompanhar. Contudo, vamos usar os princípios fundamentais para criar qualquer aplicação Web que envolva ler, criar, alterar ou excluir dados.
 
 - [Validação](./validacao): Da forma como está, nossa aplicação atende as 4 funcionalidades básicas de ler, criar, alterar e excluir dados. Contudo, se houver qualquer erro na entrada desses dados, eles serão inseridos/alterados mesmo assim! Por isso, precisamos de validação - o assunto dessa aula.
+
+- [Camadas](./camadas): Nossa 'parte Web' já é capaz de se comportar como é esperado de uma aplicação Web. Agora precisamos integrar com o restante da aplicação para permitir persistência de dados e gerenciamento das regras de negócio. Vamos fazer isso nessa aula, além de organizar a arquitetura da nossa aplicação usando camadas.
