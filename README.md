@@ -26,3 +26,5 @@ Além do Java e Spring Boot, outras tecnologias que são usadas na disciplina s�
 - [Validação](./validacao): Da forma como está, nossa aplicação atende as 4 funcionalidades básicas de ler, criar, alterar e excluir dados. Contudo, se houver qualquer erro na entrada desses dados, eles serão inseridos/alterados mesmo assim! Por isso, precisamos de validação - o assunto dessa aula.
 
 - [Camadas](./camadas): Nossa 'parte Web' já é capaz de se comportar como é esperado de uma aplicação Web. Agora precisamos integrar com o restante da aplicação para permitir persistência de dados e gerenciamento das regras de negócio. Vamos fazer isso nessa aula, além de organizar a arquitetura da nossa aplicação usando camadas.
+
+-[Segurança](./seguranca): Nossa aplicação está funcionando. Mas você não quer que qualquer um acesse todas as partes da sua aplicação, não é mesmo? Na maioria das aplicações alguns dados devem ter visibilidade limitada. Para isso vamos usar os recurso do Spring Boot para adicionar autenticação e autorização de usuários.
