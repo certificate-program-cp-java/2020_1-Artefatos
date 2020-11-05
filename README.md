@@ -28,3 +28,5 @@ Além do Java e Spring Boot, outras tecnologias que são usadas na disciplina s�
 - [Camadas](./camadas): Nossa 'parte Web' já é capaz de se comportar como é esperado de uma aplicação Web. Agora precisamos integrar com o restante da aplicação para permitir persistência de dados e gerenciamento das regras de negócio. Vamos fazer isso nessa aula, além de organizar a arquitetura da nossa aplicação usando camadas.
 
 - [Segurança](./seguranca): Nossa aplicação está funcionando. Mas você não quer que qualquer um acesse todas as partes da sua aplicação, não é mesmo? Na maioria das aplicações alguns dados devem ter visibilidade limitada. Para isso vamos usar os recurso do Spring Boot para adicionar autenticação e autorização de usuários.
+
+- [Utilitários](./misc): Nossa aplicação já está funcional. Contudo, se usarmos cookies, sessões e listeners, podemos adicionar novas funcionalidades à aplicação.
